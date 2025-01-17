@@ -6,3 +6,15 @@ As such data is rare 'in the wild', I have decided to generate it for this teach
 2) multifactor ANOVA
 3) correlation and regression (linear models)
 4) Chi2 test
+
+
+Metadata:
+
+**species** - species of examined plant (3 levels: _Healianthus, Triticum, Arabidopsis_)
+**seeds** - experimental treatment of seeds before the experiment (2 levels: warm and cold)
+**N_leaf** - number of leaves counted at the end of the studied period
+**steam_growth** - stem growth at the end of experiment, in cm
+**light** - intensity of light, in lx
+**zinc** - % concentration of zinc in the soil
+**H2O_intake** - water intake, studied at the end of each of the 3 experimental weeks, in ml
+**pest** - occurrence of spider mice (2 levels: yes, no)
